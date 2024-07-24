@@ -37,10 +37,6 @@ This project was demonstrated at the Demo Day "Vision Expo" organized by PES Col
 - Water Pipe
 - Small Water Tank
 
-## Circuit Diagram
-
-![Circuit Diagram](schematics/circuit_diagram.png)
-
 ## Block Diagram
 
 ![Block Diagram](schematics/block_diagram.png)
