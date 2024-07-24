@@ -37,10 +37,6 @@ This project was demonstrated at the Demo Day "Vision Expo" organized by PES Col
 - Water Pipe
 - Small Water Tank
 
-## Block Diagram
-
-![Block Diagram](schematics/block_diagram.png)
-
 ## Features
 
 - **Autonomous Fire Detection**: The robot uses flame sensors to detect the presence of fire and navigate towards it.
